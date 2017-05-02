@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: May 1, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: (Last night) Starting a personal blog. Fought with Hugo static site generator and git. Can't get any themes to load.
 
