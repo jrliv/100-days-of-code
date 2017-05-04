@@ -15,3 +15,9 @@
 **Thoughts:** I assumed using a static site generator would be really fast and easy but the learning curve was a little more than I expected. However I've spent a good chunk of time with it these last two days so I'm going to keep hacking at it. Also I'm still convinced that I would rather have a free static site hosted on GitHub Pages rather than deal with any expenses or security issues from a self hosted CMS or SaaS CMS.
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
+
+### Day 3: May 3, 2017
+
+**Today's Progress**: Still working with Hugo. Getting more comfortable with git. Deployed a test page to GitHub Pages.
+
+**Thoughts:** Feeling more confident using Hugo and git. Going to choose a theme tomorrow and start creating the pages and content.
