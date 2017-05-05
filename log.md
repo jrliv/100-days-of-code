@@ -21,3 +21,11 @@
 **Today's Progress**: Still working with Hugo. Getting more comfortable with git. Deployed a test page to GitHub Pages.
 
 **Thoughts:** Feeling more confident using Hugo and git. Going to choose a theme tomorrow and start creating the pages and content.
+
+### Day 4: May 4, 2017
+
+**Today's Progress**: I need to tweak some things and add content but I have a blog site on GitHub Pages now.
+
+**Thoughts:** Excited to have a blog online where I can document and share my learning.
+
+**Link to work:** https://jrliv.github.io
