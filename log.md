@@ -29,3 +29,11 @@
 **Thoughts:** Excited to have a blog online where I can document and share my learning.
 
 **Link to work:** https://jrliv.github.io
+
+### Day 5: May 5, 2017
+
+**Today's Progress**: Studying C# again. Read about code decompilation and worked with ILSpy. Reviewed data types.
+
+**Thoughts:** Code decompilation is pretty cool.
+
+
