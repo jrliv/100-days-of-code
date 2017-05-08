@@ -36,4 +36,14 @@
 
 **Thoughts:** Code decompilation is pretty cool.
 
+### Day 6 (from yesterday): May 6, 2017
 
+**Today's Progress**: Reviewed value and reference types in C#. Wrote a few small programs for the exercises in the book I'm studying.
+
+**Thoughts:** Had fun writing some of the programs for the exercises. Also had fun playing around with a few test programs.
+
+### Day 7: May 7, 2017
+
+**Today's Progress**: Didn't write any code but I learned more about literals and started reviewing operators and expressions.
+
+**Thoughts:** Not too motivated today. Hope to put in more time tomorrow.
