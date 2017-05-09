@@ -47,3 +47,11 @@
 **Today's Progress**: Didn't write any code but I learned more about literals and started reviewing operators and expressions.
 
 **Thoughts:** Not too motivated today. Hope to put in more time tomorrow.
+
+### Day 8: May 8, 2017
+
+**Today's Progress**: Didn't write any code but I learned more about literals and started reviewing operators and expressions.
+
+**Thoughts:** Feeling good for a Monday. Got a good session in.
+
+**Link to work:** https://gist.github.com/jrliv
