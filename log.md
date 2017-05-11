@@ -55,3 +55,11 @@
 ### Day 9: May 9, 2017
 
 **Today's Progress**: Still studying C#. Read more about operators, expressions, type conversion and casting.
+
+### Day 10: May 10, 2017
+
+**Today's Progress**: Wrote a few code snippets playing with operators.
+
+**Thoughts:** Feeling good. Feel like I learned more about operators than I already knew.
+
+**Link to work:** https://gist.github.com/jrliv
