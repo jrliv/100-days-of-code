@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 12, 2017
+
+**Today's Progress**: Played with escape sequences and string literals. Started reviewing conditional statements.
+
+**Thoughts:** Had fun playing with escape sequences. Hope to get a good day in tomorrow.
+
 ### Day 11: May 11, 2017
 
 **Today's Progress**: Reviewed console input and output in C#.
