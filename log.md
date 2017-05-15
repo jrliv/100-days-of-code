@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 13: May 13, 2017
+### Day 13: May 14, 2017
 
 **Today's Progress**: Went over conditional statements more and studied if, if-else, and switch statements.
 
