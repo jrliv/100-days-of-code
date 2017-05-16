@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: May 15, 2017
+
+**Today's Progress**: Practiced formatting strings and using conditional statements. Started reviewing loops.
+
+**Thoughts:** Glad to keep moving on. I plan on creating more gists for the stuff I've been learning.
+
 ### Day 13: May 14, 2017
 
 **Today's Progress**: Went over conditional statements more and studied if, if-else, and switch statements.
