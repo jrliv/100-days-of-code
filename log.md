@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 15: May 16, 2017
+
+**Today's Progress**: Cleaned up all my gists of code snippets and created a long one about formatting output in C#.
+
 ### Day 14: May 15, 2017
 
 **Today's Progress**: Practiced formatting strings and using conditional statements. Started reviewing loops.
