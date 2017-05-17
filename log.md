@@ -4,6 +4,8 @@
 
 **Today's Progress**: Cleaned up all my gists of code snippets and created a long one about formatting output in C#.
 
+Link to work: https://gist.github.com/jrliv
+
 ### Day 14: May 15, 2017
 
 **Today's Progress**: Practiced formatting strings and using conditional statements. Started reviewing loops.
