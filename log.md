@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 15: May 16, 2017
+### Day 16: May 17, 2017
 
 **Today's Progress**: Learned how to use the DateTime structure and format time and dates in C#.
 
