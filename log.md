@@ -2,6 +2,12 @@
 
 ### Day 15: May 16, 2017
 
+**Today's Progress**: Learned how to use the DateTime structure and format time and dates in C#.
+
+**Thoughts:** Had fun playing with the different custom formats that could be used to display the time and dates. I should write a long blog post about all the stuff I've learned about formatting different strings in the last three days.
+
+### Day 15: May 16, 2017
+
 **Today's Progress**: Cleaned up all my gists of code snippets and created a long one about formatting output in C#.
 
 Link to work: https://gist.github.com/jrliv
