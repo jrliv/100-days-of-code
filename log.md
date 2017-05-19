@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: May 18, 2017
+
+**Today's Progress**: Completed some exercises for my C# programming book. Attempted to setup my domain name with my blog on GitHub Pages.
+
+**Thoughts:** I hope the domain and the site work.
+
+Link to work: http://www.jrliv.com https://gist.github.com/jrliv
+
 ### Day 16: May 17, 2017
 
 **Today's Progress**: Learned how to use the DateTime structure and format time and dates in C#.
