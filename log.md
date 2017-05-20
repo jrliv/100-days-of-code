@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: May 19, 2017
+
+**Today's Progress**: Wrote some code in C# earlier today. Got my domain name working with my blog. Started working on my first blog post.
+
+**Thoughts:** Glad my domain name is working and things are moving along.
+
+Link to work: http://www.jrliv.com https://gist.github.com/jrliv
+
 ### Day 17: May 18, 2017
 
 **Today's Progress**: Completed some exercises for my C# programming book. Attempted to setup my domain name with my blog on GitHub Pages.
