@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: May 24, 2017
+
+**Today's Progress**: Studied and practiced arrays. Finished drafting my blog post. Will post tomorrow.
+
+**Thoughts:** Missed a couple of days but got a good session in today. Hopefully about to go on a long streak 
+
 ### Day 19: May 20, 2017
 
 **Today's Progress**: Not much time today. Got up early and worked on my blog. Also spent more time studying conditionals and loops.
