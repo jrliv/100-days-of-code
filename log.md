@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 21: May 25, 2017
+
+**Today's Progress**: Spent all my time proof reading and formatting my blog in Markdown. Then I broke my site trying to push the changes.
+
+**Thoughts:** Pretty frustrated at the amount of time I've spent working on this blog post and still don't have it posted. Not to mention being frustrated with not being able to push my changes correctly with git and breaking my site. Not sure if I will be able to figure out how to fix all the mistakes. May just have to delete the repo and start all over. Also might try the GitHub desktop app since I apparently don't have a clue what I'm doing with git.
+
 ### Day 20: May 24, 2017
 
 **Today's Progress**: Studied and practiced arrays. Finished drafting my blog post. Will post tomorrow.
