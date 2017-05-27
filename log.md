@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 23: May 27, 2017
+
+**Today's Progress**: Struggled more working on my blog. Determined to keep pushing and get it right.
+
 ### Day 22: May 26, 2017
 
 **Today's Progress**: Figured out what I did wrong to mess up the repo for my site. For the sake of time I'm going to start over with it.
