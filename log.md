@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 22: May 26, 2017
+
+**Today's Progress**: Figured out what I did wrong to mess up the repo for my site. For the sake of time I'm going to start over with it.
 
 ### Day 21: May 25, 2017
 
