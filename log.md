@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: May 28, 2017
+
+**Today's Progress**: Finally have my site back up and my first blog post.
+
+**Thoughts:** I think I have the workflow down for updating my site now. Ready to focus on code again.
+
+Link to work: http://jrliv.com/post/get-started-using-csharp-without-visual-studio/
+
 ### Day 23: May 27, 2017
 
 **Today's Progress**: Struggled more working on my blog. Determined to keep pushing and get it right.
