@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: May 29, 2017
+
+**Today's Progress**: (Yesterday) Learned how to use the as and null-coalescing operators as well as how to negate Boolean expressions.
+
+**Thoughts:** Glad to take a break from working on my blog and get back to learning about actual code.
+
 ### Day 24: May 28, 2017
 
 **Today's Progress**: Finally have my site back up and my first blog post.
