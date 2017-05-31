@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: May 30, 2017
+
+**Today's Progress**: Practiced more with loops and conditionals, learned about continue, and added gists.
+
+Link to work: https://gist.github.com/jrliv
+
 ### Day 25: May 29, 2017
 
 **Today's Progress**: (Yesterday) Learned how to use the as and null-coalescing operators as well as how to negate Boolean expressions.
