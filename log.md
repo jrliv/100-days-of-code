@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: May 31, 2017
+
+**Today's Progress**: Worked with arrays more and added more code snippets to my collection of C# gists.
+
+**Thoughts:** Feeling good. I have almost 50 gists of C# code snippets from the things I've been learning. I like working with arrays.
+
+Link to work: https://gist.github.com/jrliv
+
 ### Day 26: May 30, 2017
 
 **Today's Progress**: Practiced more with loops and conditionals, learned about continue, and added gists.
