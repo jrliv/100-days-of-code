@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: June 1, 2017
+
+**Today's Progress**: Learned about multidimensional arrays, jagged arrays, and memory allocation.
+
+**Thoughts:** I plan on working with arrays more tomorrow and creating some gists. Then I will move on to numeral systems.
+
 ### Day 27: May 31, 2017
 
 **Today's Progress**: Worked with arrays more and added more code snippets to my collection of C# gists.
