@@ -2,6 +2,12 @@
 
 ### Day 29: June 2, 2017
 
+**Today's Progress**: Read more about numeral systems. Made some minor tweaks to my blog site. Practiced using git.
+
+**Thoughts:** I feel like I'm progressing more and getting better with git. Every day is adding more to the momentum of creating an everyday habit and learning this stuff.
+
+### Day 29: June 2, 2017
+
 **Today's Progress**: Woke up early and practiced using different arrays in C#. Started reading about numeral systems.
 
 **Thoughts:** I've learned about numeral systems before and worked with binary and hexadecimal numbers but never mastered how to convert and perform operations on them without having to look up references. Not sure how much time I want to put into this topic or if it's even necessary to master it.
