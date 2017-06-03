@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 29: June 2, 2017
+### Day 30: June 3, 2017
 
 **Today's Progress**: Read more about numeral systems. Made some minor tweaks to my blog site. Practiced using git.
 
