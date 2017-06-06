@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 32: June 5, 2017
+
+**Today's Progress**: (Yesterday) Spent all of my time trying to setup Node.js and MongoDB for testing.
+
+**Thoughts:** This is to test a simple update that I wanted to contribute to freeCodeCamp. Most of my issues were installing MongoDB on my machine. I will hack at it again today.
+
 ### Day 31: June 4, 2017
 
 **Today's Progress**: (Yesterday) Completed a few exercises from my coding book working with binary. Read about submitting pull requests and contributing to open source.
 
-**Thoughts:** Reading about contributing to open source got me pumped up. Found an issue on FreeCodeCamp's log that I think I can help with and submit my first PR.
+**Thoughts:** Reading about contributing to open source got me pumped up. Found an issue on freeCodeCamp's issue log that I think I can help with and submit my first PR.
 
 ### Day 30: June 3, 2017
 
