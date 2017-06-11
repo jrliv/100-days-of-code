@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 35: June 10, 2017
+
+**Today's Progress**: Continued reading about methods in C#. Saved a few related gists. 
+
+Link to work: https://gist.github.com/jrliv
+
+### Day 34: June 8, 2017
+
+**Today's Progress**: Finished numeral systems. Started reading about methods.
+
+**Thoughts:** Glad to notice my CS classes from school paying off. Reviewing how to convert binary, hex, and decimal numbers has been a breeze.
+
+### Day 33: June 6, 2017
+
+**Today's Progress**: Submitted my first PR. Continued reading about numeral systems.
+
+**Thoughts:** Feeling good about my first pull request even if it was just a change to some text on a page. I'm glad it was with freeCodeCamp. They are an awesome group. I actually learned a lot.
+
 ### Day 32: June 5, 2017
 
 **Today's Progress**: (Yesterday) Spent all of my time trying to setup Node.js and MongoDB for testing.
