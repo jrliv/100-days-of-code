@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 36: June 11, 2017
+
+**Today's Progress**: Continued working with methods. Learned more about optional parameters, named arguments, and method overloading.
+
+**Thoughts:** I feel good about what I remember from working with methods while reading and working through this chapter. It has been really easy to understand.
+
+Link to work: https://gist.github.com/jrliv
+
 ### Day 35: June 10, 2017
 
 **Today's Progress**: Continued reading about methods in C#. Saved a few related gists. 
