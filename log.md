@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 37: June 12, 2017
+
+**Today's Progress**: Finished studying methods in C#. Started working on a new blog post.
+
 ### Day 36: June 11, 2017
 
 **Today's Progress**: Continued working with methods. Learned more about optional parameters, named arguments, and method overloading.
