@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38: June 13, 2017
+
+**Today's Progress**: Continued working on a blog post. Started reading about recursion.
+
+**Thoughts:** I've studied recursion before in one of my CS classes. I'm glad to go back over it in this book I've been studying. I think it is important for programmers to understand recursion. 
+
 ### Day 37: June 12, 2017
 
 **Today's Progress**: Finished studying methods in C#. Started working on a new blog post.
