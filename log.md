@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 40: June 15, 2017
+
+**Today's Progress**: Still working on my next blog post. Read more about recursion.
+
+**Thoughts:** I can tell I'll be studying recursion for the next few days. The book I'm studying gets pretty deep into it and from what I've scanned it looks like some of the examples and ideas can get pretty complicated.
+
+### Day 39: June 14, 2017
+
+**Today's Progress**: Worked more on my next blog post. Listened to a couple of CodeNewbie podcasts (yes I'm counting informative programming/tech podcasts as part of my 100 DOC).
+
+**Thoughts:** I also participated in my first CodeNewbie chat on Twitter. It was pretty sweet. I look forward to joining more.
+
 ### Day 38: June 13, 2017
 
 **Today's Progress**: Continued working on a blog post. Started reading about recursion.
