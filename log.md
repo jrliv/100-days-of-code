@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 42: June 18, 2017
+
+**Today's Progress**: Finished and pushed my blog post. Read more about recursion.
+
+**Thoughts:** I'm not going to tweet about writing blog posts or include them in my logs anymore. Just going to write as I learn and drop the posts when they are done and then tweet links to them.
+
+### Day 41: June 16, 2017
+
+**Today's Progress**: Finished my blog post but still need to edit and push it.
+
 ### Day 40: June 15, 2017
 
 **Today's Progress**: Still working on my next blog post. Read more about recursion.
