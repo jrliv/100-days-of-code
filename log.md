@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 43: June 19, 2017
+
+**Today's Progress**: Studied using recursion for Fibonacci numbers and factorials.
+
 ### Day 42: June 18, 2017
 
 **Today's Progress**: Finished and pushed my blog post. Read more about recursion.
