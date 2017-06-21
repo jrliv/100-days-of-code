@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 44: June 20, 2017
+
+**Today's Progress**: Took a break from studying recursion and worked on a desktop calculator using C#.
+
 ### Day 43: June 19, 2017
 
 **Today's Progress**: Studied using recursion for Fibonacci numbers and factorials.
