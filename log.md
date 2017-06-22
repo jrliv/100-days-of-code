@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: June 21, 2017
+
+**Today's Progress**: (Yesterday) Continued working on the calculator project.
+
+**Thoughts:** Hoping to finish the project and push to GitHub today (6/22). Then I will get back to focusing on recursion. It's been nice to just work on a project and take a break from studying and learning concepts.
+
 ### Day 44: June 20, 2017
 
 **Today's Progress**: Took a break from studying recursion and worked on a desktop calculator using C#.
