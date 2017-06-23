@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 46: June 22, 2017
+
+**Today's Progress**: Still finishing my calculator project in C#.
+
 ### Day 45: June 21, 2017
 
 **Today's Progress**: (Yesterday) Continued working on the calculator project.
