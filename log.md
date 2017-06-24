@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 47: June 23, 2017
+
+**Today's Progress**: Finished my calculator project. Also listened to a few #CodeNewbie podcast episodes.
+
+Link to work: https://github.com/jrliv/Calculator
+
 ### Day 46: June 22, 2017
 
 **Today's Progress**: Still finishing my calculator project in C#.
