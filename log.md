@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 48: June 24, 2017
+
+**Today's Progress**: Cleaned up my repos on GitHub. Returned to studying recursion.
+
 ### Day 47: June 23, 2017
 
 **Today's Progress**: Finished my calculator project. Also listened to a few #CodeNewbie podcast episodes.
