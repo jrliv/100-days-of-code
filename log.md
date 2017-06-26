@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: June 25, 2017
+
+**Today's Progress**: Learned about direct and indirect recursion. Also learned about when to use recursion vs iteration.
+
+**Thoughts:** Hopefully about to wrap up studying recursion and move on to working with objects.
+
 ### Day 48: June 24, 2017
 
 **Today's Progress**: Cleaned up my repos on GitHub. Returned to studying recursion.
