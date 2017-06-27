@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 51: June 27, 2017
+
+**Today's Progress**: Finished studying and working with recursion for now. Moving on to learning about objects.
+
+**Thoughts:** Moving on from recursion. I feel like I've read about and worked with it enough to get the gist of how it works and how it's used but I'm not fully proficient with reading and using the technique for all the solutions it's useful for. I will definitely return to practice and work with recursion in the future but for now I am going to give myself a break from it and move on to learning about objects.
+
+### Day 50: June 26, 2017
+
+**Today's Progress**: Continued working with recursion.
+
+**Thoughts:** Glad to hit the half way mark of the challenge but frustrated with figuring out some of these recursive solutions.
+
 ### Day 49: June 25, 2017
 
 **Today's Progress**: Learned about direct and indirect recursion. Also learned about when to use recursion vs iteration.
