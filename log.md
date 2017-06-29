@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52: June 28, 2017
+
+**Today's Progress**: Reviewed classes and objects in C#.
+
+**Thoughts:** I've been fighting a stomach bug all night and day but I still managed to get a little work in. Going to be working with creating and using objects tomorrow.
+
 ### Day 51: June 27, 2017
 
 **Today's Progress**: Finished studying and working with recursion for now. Moving on to learning about objects.
