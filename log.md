@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 53: June 29, 2017
+
+**Today's Progress**: Learned about creating, using, and releasing objects. Also learned about constructors.
+
 ### Day 52: June 28, 2017
 
 **Today's Progress**: Reviewed classes and objects in C#.
