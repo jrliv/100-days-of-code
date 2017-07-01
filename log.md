@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 54: June 30, 2017
+
+**Today's Progress**: Learned about static fields and methods. Started playing with some of the System C# classes.
+
 ### Day 53: June 29, 2017
 
 **Today's Progress**: Learned about creating, using, and releasing objects. Also learned about constructors.
