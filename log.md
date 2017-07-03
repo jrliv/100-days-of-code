@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 56: July 2, 2017
+
+**Today's Progress**: Worked more with using the Environment, Math, and Random classes. Started reading about namespaces.
+
+**Thoughts:** Been having fun playing with the System classes and seeing what they can do.
+
+Link to work: https://gist.github.com/jrliv
+
+### Day 55: July 1, 2017
+
+**Today's Progress**: Worked more with System classes in C#.
+
 ### Day 54: June 30, 2017
 
 **Today's Progress**: Learned about static fields and methods. Started playing with some of the System C# classes.
@@ -7,6 +19,8 @@
 ### Day 53: June 29, 2017
 
 **Today's Progress**: Learned about creating, using, and releasing objects. Also learned about constructors.
+
+**Thoughts:** Not sure why but knowing how constructors work and when to use them has become a lot easier to me. I remember learning about them in my Java classes a few years ago. I had know clue what I was doing and what they were for.
 
 ### Day 52: June 28, 2017
 
