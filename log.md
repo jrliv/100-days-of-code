@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 57: July 3, 2017
+
+**Today's Progress**: Learned about nested namespaces. Also started working with exception handling.
+
 ### Day 56: July 2, 2017
 
 **Today's Progress**: Worked more with using the Environment, Math, and Random classes. Started reading about namespaces.
