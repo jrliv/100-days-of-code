@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 61: July 7, 2017
+
+**Today's Progress**: Got up early and learned about resource cleanup. Worked with using the IDisposable interface.
+
 ### Day 60: July 6, 2017
 
 **Today's Progress**: Read about catching exceptions at different levels and learned how to use try/finally.
