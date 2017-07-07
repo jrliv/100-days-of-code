@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 60: July 6, 2017
+
+**Today's Progress**: Read about catching exceptions at different levels and learned how to use try/finally.
+
+### Day 59: July 5, 2017
+
+**Today's Progress**: Learned about reading the stack trace. Also learned about application vs. system exceptions.
+
+### Day 58: July 4, 2017
+
+**Today's Progress**: Continued learning about exception handling and practiced throwing a few different exceptions using try/catch.
+
 ### Day 57: July 3, 2017
 
 **Today's Progress**: Learned about nested namespaces. Also started working with exception handling.
