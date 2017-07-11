@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 65: July 11, 2017
+
+**Today's Progress**: Learning about string interning for memory optimization in C#.
+
 ### Day 64: July 10, 2017
 
 **Today's Progress**: Learned how to use the Equals() and CompareTo() methods from the String class.
