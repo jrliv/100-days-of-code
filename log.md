@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 64: July 10, 2017
+
+**Today's Progress**: Learned how to use the Equals() and CompareTo() methods from the String class.
+
+### Day 63: July 9, 2017
+
+**Today's Progress**: Finished my donation app project.
+
+Link to work: https://github.com/jrliv/DonationApp
+
+### Day 62: July 8, 2017
+
+**Today's Progress**: Started working on a C# project for a donation app.
+
 ### Day 61: July 7, 2017
 
 **Today's Progress**: Got up early and learned about resource cleanup. Worked with using the IDisposable interface.
