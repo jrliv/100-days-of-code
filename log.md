@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 70: July 17, 2017
+
+**Today's Progress**: Continued working on my hourly wage calculator project.
+
+### Day 69: July 16, 2017
+
+**Today's Progress**: Worked more on my hourly calculator project.
+
+### Day 68: July 15, 2017
+
+**Today's Progress**: Learned about replacing substrings. Started working on an hourly wage calculator project.
+
+**Thoughts:** Had fun setting up the GUI for the project.
+
+### Day 67: July 14, 2017
+
+**Today's Progress**: Read about splitting strings in C#.
+
+### Day 66: July 12, 2017
+
+**Today's Progress**: Learned about setting strings to upper and lower case. Searching for and extracting sub strings.
+
+**Thoughts:** Been having fun playing with strings. Enjoying learning about all of the different methods and things you can do with them.
+
 ### Day 65: July 11, 2017
 
 **Today's Progress**: Learning about string interning for memory optimization in C#.
