@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 75: July 23, 2017
+
+**Today's Progress**: Learned more about regular expressions and started reading about the StringBuilder class in C#.
+
+**Thoughts:** Never knew there were so many different things you can learn and do with strings. I can definitely say some of this stuff wasn't covered in my programming classes that I took to get my associate's degree.
+
+### Day 74: July 22, 2017
+
+**Today's Progress**: Finally finished my hourly wage calculator project.
+
+**Thoughts:** I had a lot of fun working on this project but I'm glad to get it finished and added to my repo.
+
+Link to work: https://github.com/jrliv/HourlyWageCalculator
+
+### Day 73: July 20, 2017
+
+**Today's Progress**: Continued studying regular expressions.
+
+### Day 72: July 19, 2017
+
+**Today's Progress**: Learned more about string operations and started studying regex.
+
+### Day 71: July 18, 2017
+
+**Today's Progress**: Working remotely on my Linux laptop so unable to work on my project. Focusing on strings again for now.
+
 ### Day 70: July 17, 2017
 
 **Today's Progress**: Continued working on my hourly wage calculator project.
