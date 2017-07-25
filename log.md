@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 76: July 24, 2017
+
+**Today's Progress**: Started taking the Introduction to ASP.NET MVC course from @MSLearning.
+
+Link to course: https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-mvc-8322?l=Omf358Zy_1604984382&v=kipiFY17H2&WT.mc_id=mva_sms_kipi_us-en
+
 ### Day 75: July 23, 2017
 
 **Today's Progress**: Learned more about regular expressions and started reading about the StringBuilder class in C#.
