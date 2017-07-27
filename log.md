@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 78: July 26, 2017
+
+**Today's Progress**: Continued taking the Introduction to ASP.NET MVC course. Learned about Views and Bootstrap.
+
+**Thoughts**: This course really is a brief introduction. There is so much involved in ASP.NET MVC that I can't imagine how many hours it would take to go through and learn everything. I just wish the course actually went through making some kind of project step-by-step while demonstrating the topics that are discussed in the course.
+
+### Day 77: July 25, 2017
+
+**Today's Progress**: Continued taking the Introduction to http://ASP.NET  MVC course. Learned about models and controllers.
+
 ### Day 76: July 24, 2017
 
 **Today's Progress**: Started taking the Introduction to ASP.NET MVC course from @MSLearning.
