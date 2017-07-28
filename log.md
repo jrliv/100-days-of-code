@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 79: July 27, 2017
+
+**Today's Progress**: Finished the Introduction to ASP.NET MVC course from @MSLearning.
+
 ### Day 78: July 26, 2017
 
 **Today's Progress**: Continued taking the Introduction to ASP.NET MVC course. Learned about Views and Bootstrap.
