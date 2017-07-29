@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 80: July 28, 2017
+
+**Today's Progress**: Worked through most of the Getting Started with ASP.NET MVC 5 tutorial on Microsoft Docs.
+
+**Thoughts**: So far I really like this tutorial. It is going through step-by-step how to build a project using MVC and how it all ties together. I am following along and creating a simple app that allows you to add movies to a db.
+
+**Link to tutorial: https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/
+
 ### Day 79: July 27, 2017
 
 **Today's Progress**: Finished the Introduction to ASP.NET MVC course from @MSLearning.
