@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 81: July 29, 2017
+
+**Today's Progress**: Continued working through the Getting Started with ASP.NET MVC 5 tutorial.
+
 ### Day 80: July 28, 2017
 
 **Today's Progress**: Worked through most of the Getting Started with ASP.NET MVC 5 tutorial on Microsoft Docs.
