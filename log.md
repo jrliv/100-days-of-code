@@ -6,7 +6,7 @@
 
 **Thoughts**: Feeling productive even though I'm not doing much. I'm having fun going through old projects and pushing them to my GitHub account. This is something I said I would do a long time ago and I'm glad I'm finally doing it.
 
-Link to work: http://futurevalue.azurewebsites.net/ | https://github.com/jrliv?tab=repositories
+Link to work: http://futurevalue.azurewebsites.net/ | https://github.com/jrliv/FlagViewer | https://github.com/jrliv?tab=repositories
 
 ### Day 86: August 3, 2017
 
