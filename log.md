@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 87: August 4, 2017
+
+**Today's Progress**: Played with more old VB.NET projects. Added two more to @github
+
+**Thoughts**: Feeling productive even though I'm not doing much. I'm having fun going through old projects and pushing them to my GitHub account. This is something I said I would do a long time ago and I'm glad I'm finally doing it.
+
+Link to work: http://futurevalue.azurewebsites.net/ | https://github.com/jrliv?tab=repositories
+
+### Day 86: August 3, 2017
+
+**Today's Progress**: (yesterday) Continued tweaking old VB.NET projects. Will try to push a couple to @github today.
+
+### Day 85: August 2, 2017
+
+**Today's Progress**:  Played with some of my old VB.NET projects. Pushed one to GH. 
+
+Link to work: https://github.com/jrliv/CheckingAccountBalance
+
+### Day 84: August 1, 2017
+
+**Today's Progress**: Played with Azure and got an old ASP .NET project I made a few years ago hosted. 
+
+Link to work: http://tuitioncalculator.azurewebsites.net/
+
+### Day 83: July 31, 2017
+
+**Today's Progress**: Finished the Getting Started with ASP.NET MVC 5 tutorial on @docsmsft
+
+**Thoughts**: This was a great tutorial. I learned a lot and look forward to learning more about ASP.NET MVC. It is awesome.
+
+### Day 82: July 30, 2017
+
+**Today's Progress**: Worked a little more through the ASP.NET  MVC 5 tutorial. Hope to finish today.
+
 ### Day 81: July 29, 2017
 
 **Today's Progress**: Continued working through the Getting Started with ASP.NET MVC 5 tutorial.
