@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 89: August 6, 2017
+
+**Today's Progress**: Started working on a student information ASP.NET MVC project.
+
+### Day 88: August 5, 2017
+
+**Today's Progress**: Still going through old projects. Trying to think of an idea for a new ASP.NET MVC project.
+
 ### Day 87: August 4, 2017
 
 **Today's Progress**: Played with more old VB.NET projects. Added two more to @github
