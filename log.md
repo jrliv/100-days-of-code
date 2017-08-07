@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 90: August 7, 2017
+
+**Today's Progress**: Working on my student information project. Can't believe I'm on day 90.
+
 ### Day 89: August 6, 2017
 
 **Today's Progress**: Started working on a student information ASP.NET MVC project.
