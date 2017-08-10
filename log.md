@@ -4,6 +4,8 @@
 
 **Today's Progress**: Continued working on my student information project.
 
+**Thought**: Glad to be back where I was. Pushed a little further and added search functionality. Need to figure out how to align my two buttons. I also started a new blog post today and started adding archive and projects pages to my personal site.
+
 ### Day 92: August 9, 2017
 
 **Today's Progress**: Restarted my project and got back to where I was. Hopefully I can put in some more work on it tonight.
