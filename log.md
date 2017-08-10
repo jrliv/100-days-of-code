@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 93: August 10, 2017
+
+**Today's Progress**: Continued working on my student information project.
+
+### Day 92: August 9, 2017
+
+**Today's Progress**: Restarted my project and got back to where I was. Hopefully I can put in some more work on it tonight.
+
+### Day 91: August 8, 2017
+
+**Today's Progress**: Messed up the Model and DB for my project so bad that I had to start over.
+
 ### Day 90: August 7, 2017
 
 **Today's Progress**: Working on my student information project. Can't believe I'm on day 90.
