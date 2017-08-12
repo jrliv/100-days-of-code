@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 95: August 12, 2017
+
+**Today's Progress**: Worked a little more on my student information project and my personal site.
+
+**Thoughts**: Can't believe I only have 5 days left of the challenge. I hope I can finish this project and the updates to my website before I finish at day 100.
+
+### Day 94: August 11, 2017
+
+**Today's Progress**: Added search functionality to my project. Trying to get my buttons aligned without breaking one.
+
 ### Day 93: August 10, 2017
 
 **Today's Progress**: Continued working on my student information project.
 
-**Thought**: Glad to be back where I was. Pushed a little further and added search functionality. Need to figure out how to align my two buttons. I also started a new blog post today and started adding archive and projects pages to my personal site.
+**Thoughts**: Glad to be back where I was. Pushed a little further and added search functionality. Need to figure out how to align my two buttons. I also started a new blog post today and started adding archive and projects pages to my personal site.
 
 ### Day 92: August 9, 2017
 
