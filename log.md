@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 100: August 17, 2017
+
+**Today's Progress**: Still working on my ASP .NET MVC project and my blog site.
+
+**Thoughts**: Wish I could have finished my project before ending the challenge but it didn't happen. I still need to learn and figure some things out with my model and DB. Also need to continue working on my personal site. I'm glad I completed the challenge.
+
+### Day 99: August 16, 2017
+
+**Today's Progress**: Worked more on my project. Finished adding archive and projects pages to my blog site.
+
+**Thoughts**: My projects page isn't the best and really my projects themselves aren't either but they are definitely a good start I think. I will continue to update my projects page to display my work better. I will update the projects themselves in some cases as well.
+
+Link to work: https://jrliv.com/archive | https://jrliv.com/projects
+
+### Day 98: August 15, 2017
+
+**Today's Progress**: Continued working on my project. Also worked more on adding archive and project pages to my blog site..
+
+### Day 97: August 14, 2017
+
+**Today's Progress**: Still working on my student info project. Trying to learn more about MVC and Razor syntax as I work on it.
+
+**Thoughts**: I like the concept of MVC and I think Razor syntax is really cool and intuitive. I just need to learn more about it.
+
+### Day 96: August 13, 2017
+
+**Today's Progress**: Continued working on my project and personal site.
+
 ### Day 95: August 12, 2017
 
 **Today's Progress**: Worked a little more on my student information project and my personal site.
